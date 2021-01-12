@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T17:00:43.473Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ND37f9Rbcf2zBSt3lA_t" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-12T17:07:37.540Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="10fbgeX-GGT90y_H1ZIO" version="13.8.8" type="github" pages="2">
   <diagram id="gE42BKl88uLbt6vD5m_b" name="Aggregation Summary">
-    <mxGraphModel dx="994" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="767" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,14 +105,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b96Z--FaAQciaPmejpgh-30" value="Create New Notes with aggreaged event summary" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=#97D077;" parent="1" vertex="1">
-          <mxGeometry x="595" y="260" width="110" height="110" as="geometry" />
+        <mxCell id="b96Z--FaAQciaPmejpgh-30" value="Create New Notes with aggreaged event summary&lt;br&gt;(&lt;b&gt;Markdown Syntax&lt;/b&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=#97D077;" parent="1" vertex="1">
+          <mxGeometry x="595" y="250" width="115" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b96Z--FaAQciaPmejpgh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.343;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b96Z--FaAQciaPmejpgh-32" target="b96Z--FaAQciaPmejpgh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b96Z--FaAQciaPmejpgh-32" value="Add New Notes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#97D077;" parent="1" vertex="1">
-          <mxGeometry x="420" y="40" width="80" height="100" as="geometry" />
+        <mxCell id="b96Z--FaAQciaPmejpgh-32" value="Add New Notes&lt;br&gt;(&lt;b&gt;Markdown Syntax&lt;/b&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#97D077;" parent="1" vertex="1">
+          <mxGeometry x="420" y="30" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b96Z--FaAQciaPmejpgh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="b96Z--FaAQciaPmejpgh-36" target="b96Z--FaAQciaPmejpgh-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -164,6 +164,12 @@
         <mxCell id="fnr5mTM9cUQArctGiF-l-1" value="&lt;b&gt;other Playbooks Updated&lt;/b&gt;:: (which run within phishing_detection_v2_playbook)&lt;br&gt;&lt;br&gt;1. virustotal_playbook&lt;br&gt;2. zscaler_lookup&lt;br&gt;3. netcraft_playbook&lt;br&gt;&lt;br&gt;&lt;span&gt;Added &#39;aggregated&#39; label in playbook settings.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;On aggregated events, phishing_detention_v2 playbook run only when &quot;run_phishing_v2&quot; customfield is set.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;spacingTop=0;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="1000" y="650" width="240" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="GDLRz4vSRAY1XBXaF-vw-1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="730" as="sourcePoint" />
+            <mxPoint x="420" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -184,7 +190,7 @@
           <mxGeometry x="60" y="100" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="4Nl-ElpUadaNBDXM-pfR-2" value="On parent&amp;nbsp; container object &lt;br&gt;data will stored and aggregated data will be created &lt;br&gt;only if it found unique artifacts found in the event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Uzh9qxh1pEm_OjEc7MrS-1" vertex="1">
-          <mxGeometry x="190" y="30.000000000000004" width="290" height="50" as="geometry" />
+          <mxGeometry x="260" y="35.2" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4Nl-ElpUadaNBDXM-pfR-4" value="Create Markup &lt;br&gt;notes&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="Uzh9qxh1pEm_OjEc7MrS-1" vertex="1">
           <mxGeometry x="430" y="182.5" width="120" height="105" as="geometry" />
