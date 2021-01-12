@@ -1,1 +1,195 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T15:26:54.245Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gFkvHvSnIsZhcK8EEguE" version="13.8.8" type="github" pages="2"><diagram id="gE42BKl88uLbt6vD5m_b" name="Aggregation Summary">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</diagram><diagram id="kWyBnaxBHq6z5zCMUona" name="Summary Object">tVfbcqM4EP0aP8bFNR4/xpfsPCSTqU2ldvYpJSwZ5AhERGPjfP22hAAD3sSTmthVlHQkWi2d061m4i/T6i9F8uReUiYmnkOrib+aeN58HuBTA8caCPxZDcSK0xpyO+CRvzELOhYtOWVFbyJIKYDnfXAjs4xtoIcRpeShP20rRX/VnMRsBDxuiBij/3AKSY1+C50O/854nDQru44dSUkz2QJFQqg8nED+euIvlZRQt9JqyYQ+u+Zcnt6S+WuVuPk6fX7YrTeze/V4VRu7/Z1X2i0olsGnTc9v6VOxymlUPpXR/julu+SmMb0norTnZfcKx+YAKSkSpm04E38hSxA8Y8uWLA0mkApsutgkgscZtjfoKVMICBIx8VMWHLjsDeyZAo403Q0mRBJApicTbqxJkDmiSEKuHUurWMt1emCRkLEsprtCZs+engFKvqCHQiqzAX8+WzmzWTvSqEC7u+VCnMy8NT/E7amgB6wayOgDDtxWGBhQTKYM1BHfa6LJSsnG0rXtHk6E6UxtwCUnqvTCqeec/nwbIDY44nalTgDYsBo4r4fgh7hai/yJUPJjsfp1f5Vv/77yR/QziuFku1JBgoedEbHu0IWSZUY7hbRz7qRmzJzzjgEcbW4gJci+aFjF4ddJ+19tahra3qqylk3naDsjlutzabnTbn+COdy6LNWGvXNEljMgKmbwzrzgvBIUEwT4vu/cOR7tqz8lR7dbBQVOX0KeH/ZN1H7ZtwZqaN34vECcccKY4ZFfCzyKRaSwFYMh4QzyWupUucgTXiQ8i5+LMk2J3mwzMvFv0PalBme4+vKSmSSOFYsJMPrM9iiC4v11SKoTTRYVuek7Q8i9xn9n4v/duMSQNzY0eO2Thv2+4Q/fuWAhY+cyXgZJ5JBwYI85MYF1wMQ9uDWKvL5NtrzSieSP5PDmKhJsq90qcHUU3Z3prdzgC7P8dT9E24riJM17M+dMlm/AP57WvVHUPmTdPsfiwGIMCN7zSKojo50mxyhmQDUlQMy+jAcFSIXsofuZebZRp6vH3syI6TUUs4NjwzIT+jz5Vj/AlH2lMVpm/LVkpjQEviUbjOVukOs9QaKHTZyPZIg8wwf1yrDqSDml9S3HCv5GImNKXzO5zrCGp3AxCVfaFl5sRX3HuV+oLndQRPjOtFcaOMFYbfMzagu/SmzBSGxLQzVi90S9lPlZyjMJ+JkwkuKAwab807Nx/IO8EpHNS2zKk4e6brU4RTcedD4AU05MnfAL+Qr8QTr45k3DEUWud4Yi1wl/myPsdp8k9a3ffdf56/8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-12T16:43:21.839Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FcOfXYhKPmLYSj7smAR1" version="13.8.8" type="github" pages="2">
+  <diagram id="gE42BKl88uLbt6vD5m_b" name="Aggregation Summary">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b96Z--FaAQciaPmejpgh-1" value="Parent&lt;br&gt;Event" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="25" y="150" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-4" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="179.5" as="sourcePoint" />
+            <mxPoint x="147" y="179.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b96Z--FaAQciaPmejpgh-5" target="b96Z--FaAQciaPmejpgh-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-5" value="itsm_ingestion_&lt;br&gt;playbook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b96Z--FaAQciaPmejpgh-6" target="b96Z--FaAQciaPmejpgh-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-6" value="aggregation&lt;br&gt;_playbook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="305" y="160" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b96Z--FaAQciaPmejpgh-7" target="b96Z--FaAQciaPmejpgh-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-7" value="itsm_parser&lt;br&gt;_playbook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="450" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b96Z--FaAQciaPmejpgh-9" target="b96Z--FaAQciaPmejpgh-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-9" value="phishing_detection_&lt;br&gt;v2_playbook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="610" y="160" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b96Z--FaAQciaPmejpgh-19" target="b96Z--FaAQciaPmejpgh-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-19" value="Aggregated&lt;br&gt;Event" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="467.5" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b96Z--FaAQciaPmejpgh-21" target="b96Z--FaAQciaPmejpgh-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-21" value="&lt;span&gt;itsm_ingestion_&lt;/span&gt;&lt;br&gt;&lt;span&gt;playbook&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b96Z--FaAQciaPmejpgh-22" target="b96Z--FaAQciaPmejpgh-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-22" value="aggregation&lt;br&gt;_playbook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="285" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="b96Z--FaAQciaPmejpgh-25" target="b96Z--FaAQciaPmejpgh-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="b96Z--FaAQciaPmejpgh-25" target="b96Z--FaAQciaPmejpgh-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="515" />
+              <mxPoint x="585" y="590" />
+              <mxPoint x="60" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-25" value="&lt;span&gt;itsm_parser&lt;/span&gt;&lt;br&gt;&lt;span&gt;_playbook&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="445" y="485" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="b96Z--FaAQciaPmejpgh-27" target="b96Z--FaAQciaPmejpgh-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="500" />
+              <mxPoint x="1030" y="500" />
+              <mxPoint x="1030" y="410" />
+              <mxPoint x="650" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-27" value="&lt;span&gt;phishing_detection_&lt;/span&gt;&lt;br&gt;&lt;span&gt;v2_playbook on &#39;Unique&#39; tagged artifacts&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="960" y="465" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b96Z--FaAQciaPmejpgh-30" target="b96Z--FaAQciaPmejpgh-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="230" />
+              <mxPoint x="60" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-30" value="Create New Notes with aggreaged event summary" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=#97D077;" parent="1" vertex="1">
+          <mxGeometry x="595" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.343;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b96Z--FaAQciaPmejpgh-32" target="b96Z--FaAQciaPmejpgh-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-32" value="Add New Notes" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#97D077;" parent="1" vertex="1">
+          <mxGeometry x="420" y="40" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="b96Z--FaAQciaPmejpgh-36" target="b96Z--FaAQciaPmejpgh-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="250" />
+              <mxPoint x="60" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-36" value="Add Unique (url/filehash) Artifacts to parent" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;" parent="1" vertex="1">
+          <mxGeometry x="385" y="270" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b96Z--FaAQciaPmejpgh-49" target="b96Z--FaAQciaPmejpgh-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.603;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b96Z--FaAQciaPmejpgh-49" target="b96Z--FaAQciaPmejpgh-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="505" />
+              <mxPoint x="760" y="440" />
+              <mxPoint x="457" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="b96Z--FaAQciaPmejpgh-49" target="b96Z--FaAQciaPmejpgh-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-49" value="Unique &lt;br&gt;Artifacts check&lt;br&gt;(compare with parent )" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="449.22" width="110" height="111.56" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-52" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="735" y="515" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-53" value="End" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="590" width="120" height="26.88" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-55" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="635" y="560.78" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="b96Z--FaAQciaPmejpgh-56" target="b96Z--FaAQciaPmejpgh-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-56" value="Add unique tag to Artifacts" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="475" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b96Z--FaAQciaPmejpgh-68" value="Add Artifacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="570" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fnr5mTM9cUQArctGiF-l-1" value="&lt;b&gt;Playbooks Updated&lt;/b&gt;::&lt;br&gt;1. virustotal_playbook&lt;br&gt;2. zscaler_lookup&lt;br&gt;3. netcraft_playbook&lt;br&gt;&lt;br&gt;&lt;span&gt;Added &#39;aggregated&#39; label in playbook settings.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;On aggregated events, phishing_detention_v2 playbook run only when &quot;run_phishing_v2&quot; customfield is set.&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;spacingTop=0;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="650" width="240" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kWyBnaxBHq6z5zCMUona" name="Summary Object">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Uzh9qxh1pEm_OjEc7MrS-0" />
+        <mxCell id="Uzh9qxh1pEm_OjEc7MrS-1" parent="Uzh9qxh1pEm_OjEc7MrS-0" />
+        <mxCell id="9FdUsDpdbuUubvHddjhA-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json_2;strokeColor=#97D077;strokeWidth=1;fillColor=#FFFFFF;" parent="Uzh9qxh1pEm_OjEc7MrS-1" vertex="1">
+          <mxGeometry x="90" y="60" width="80.4" height="25.200000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="4Nl-ElpUadaNBDXM-pfR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="Uzh9qxh1pEm_OjEc7MrS-1" source="4Nl-ElpUadaNBDXM-pfR-0" target="4Nl-ElpUadaNBDXM-pfR-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Nl-ElpUadaNBDXM-pfR-0" value="{&lt;br&gt;&lt;br&gt;&quot;phishing_summary&quot;: {&lt;br&gt;&lt;br&gt;},&lt;br&gt;&lt;br&gt;aggregated_events: {&lt;br&gt;&amp;nbsp; &amp;nbsp;16161: {},&lt;br&gt;&amp;nbsp; &amp;nbsp;16162: {},&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;16163: {}&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp;}&lt;br&gt;&lt;br&gt;}" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#97D077;strokeWidth=1;fillColor=#FFFFFF;align=left;spacingLeft=14;" parent="Uzh9qxh1pEm_OjEc7MrS-1" vertex="1">
+          <mxGeometry x="60" y="100" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4Nl-ElpUadaNBDXM-pfR-2" value="On parent&amp;nbsp; container object &lt;br&gt;data will stored and aggregated data will be created &lt;br&gt;only if it found unique artifacts found in the event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="Uzh9qxh1pEm_OjEc7MrS-1" vertex="1">
+          <mxGeometry x="190" y="30.000000000000004" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Nl-ElpUadaNBDXM-pfR-4" value="Create Markup &lt;br&gt;notes&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="Uzh9qxh1pEm_OjEc7MrS-1" vertex="1">
+          <mxGeometry x="430" y="182.5" width="120" height="105" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
