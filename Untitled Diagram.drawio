@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T07:33:45.618Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zQWltCvBTPNTUbL3HLTt" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-18T09:26:56.615Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uenMswuuQL-DU-HYBQiL" version="13.8.8" type="github" pages="2">
   <diagram id="gE42BKl88uLbt6vD5m_b" name="Aggregation Summary">
-    <mxGraphModel dx="1234" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b96Z--FaAQciaPmejpgh-30" value="Create/update New Notes with aggreaged event summary&lt;br&gt;(&lt;b&gt;Markdown Syntax&lt;/b&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=#97D077;" parent="1" vertex="1">
+        <mxCell id="b96Z--FaAQciaPmejpgh-30" value="Create New Notes with aggreaged event summary&lt;br&gt;(&lt;b&gt;Markdown Syntax&lt;/b&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;strokeColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="595" y="250" width="135" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b96Z--FaAQciaPmejpgh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.343;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b96Z--FaAQciaPmejpgh-32" target="b96Z--FaAQciaPmejpgh-1" edge="1">
@@ -161,7 +161,7 @@
         <mxCell id="b96Z--FaAQciaPmejpgh-68" value="Add Artifacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="570" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fnr5mTM9cUQArctGiF-l-1" value="&lt;b&gt;other Playbooks Updated&lt;/b&gt;:: (which run within phishing_detection_v2_playbook)&lt;br&gt;&lt;br&gt;1. virustotal_playbook&lt;br&gt;2. zscaler_lookup&lt;br&gt;3. netcraft_playbook&lt;br&gt;&lt;br&gt;&lt;b&gt;Custom Fields&lt;/b&gt;:&lt;br&gt;1. remedy_incident_id&lt;br&gt;2. submitted_date&lt;br&gt;3. source&lt;br&gt;4. rule_alert_name&lt;br&gt;5. event_severity" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;spacingTop=0;spacingLeft=10;" parent="1" vertex="1">
+        <mxCell id="fnr5mTM9cUQArctGiF-l-1" value="&lt;b&gt;other Playbooks Updated&lt;/b&gt;:: (which run within phishing_detection_v2_playbook)&lt;br&gt;&lt;br&gt;1. virustotal_playbook&lt;br&gt;2. zscaler_lookup&lt;br&gt;3. netcraft_playbook&lt;br&gt;&lt;br&gt;&lt;b&gt;Custom Fields on aggregated event&lt;/b&gt;:&lt;br&gt;1. remedy_incident_id&lt;br&gt;2. submitted_date&lt;br&gt;3. source&lt;br&gt;4. rule_alert_name&lt;br&gt;5. event_severity&lt;br&gt;&lt;br&gt;Disabled Active from the playbook settings." style="whiteSpace=wrap;html=1;aspect=fixed;align=left;spacingTop=0;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="1000" y="650" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="GDLRz4vSRAY1XBXaF-vw-1" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#FF3333;" parent="1" edge="1">
@@ -174,7 +174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kWyBnaxBHq6z5zCMUona" name="Summary Object">
-    <mxGraphModel dx="1234" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Uzh9qxh1pEm_OjEc7MrS-0" />
         <mxCell id="Uzh9qxh1pEm_OjEc7MrS-1" parent="Uzh9qxh1pEm_OjEc7MrS-0" />
